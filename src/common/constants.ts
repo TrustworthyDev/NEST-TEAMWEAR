@@ -1,0 +1,1 @@
+export const AMAZON_GLN = '5450534000000';
